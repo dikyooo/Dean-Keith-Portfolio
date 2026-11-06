@@ -1,0 +1,201 @@
+body.light-mode {
+  background-color: #f0f0f0;
+  background-image: radial-gradient(circle, #d1d1d1 1.6px, transparent 1.6px);
+  background-size: 20px 20px;
+  color: #222222;
+}
+
+body.light-mode .navbar {
+  background: #f0f0f0;
+  border-color: #829cd0;
+}
+
+body.light-mode .logo {
+  color: #829cd0;
+}
+
+body.light-mode .logo span {
+  color: #1b1b1b;
+}
+
+body.light-mode .navlink ul li a {
+  color: #1b1b1b;
+}
+
+body.light-mode .navlink ul li a:hover,
+body.light-mode .navlink ul li a.active {
+  color: #829cd0;
+}
+
+body.light-mode .navlink ul li a::after {
+  background-color: #829cd0;
+}
+
+body.light-mode .theme-toggle {
+  background: transparent;
+  border: 1px solid #829cd0;
+  box-shadow: none;
+}
+
+body.light-mode .theme-toggle img {
+  border: none;
+}
+
+body.light-mode .welcome {
+  color: #222222;
+}
+
+body.light-mode .welcome span {
+  color: #829cd0;
+}
+
+body.light-mode .explore a {
+  color: #555555;
+}
+
+body.light-mode .explore a:hover {
+  color: #829cd0;
+}
+
+body.light-mode .about-head,
+body.light-mode .intro,
+body.light-mode .intro p,
+body.light-mode .information,
+body.light-mode .information p {
+  color: #333333;
+}
+
+body.light-mode .name h1,
+body.light-mode .intro h2,
+body.light-mode .info-title {
+  color: #222222;
+}
+
+body.light-mode .name .surname {
+  color: #829cd0;
+}
+
+body.light-mode .item {
+  background: #ffffff;
+  color: #333333;
+  border-color: #829cd0;
+}
+
+body.light-mode .profile img:hover {
+  background-color: #ffffff;
+}
+
+body.light-mode .stack-container,
+body.light-mode .stack-container h1 {
+  color: #829cd0;
+}
+
+body.light-mode .icon {
+  background: #ffffff;
+  color: #222222;
+  border-color: #829cd0;
+}
+
+body.light-mode .icon p {
+  color: #333333;
+}
+
+body.light-mode .icon:hover {
+  background: #e5e5e5;
+}
+
+body.light-mode .awards-container,
+body.light-mode .awards-container h1 {
+  color: #829cd0;
+}
+
+body.light-mode .cert {
+  background: #ffffff;
+  color: #222222;
+}
+
+body.light-mode .cert p {
+  color: #333333;
+}
+
+body.light-mode .cert:hover {
+  background: #e5e5e5;
+}
+
+body.light-mode .other-main-container .title {
+  color: #333333;
+}
+
+body.light-mode .other-main-container,
+body.light-mode .other-main-container h1,
+body.light-mode .text {
+  color: #829cd0;
+}
+
+body.light-mode .text h2 {
+  color: #222222;
+}
+
+body.light-mode .text h3 {
+  color: #222222;
+}
+
+body.light-mode .text p {
+  color: #444444;
+}
+
+body.light-mode .CONTACT {
+  background: #e5e5e5;
+  color: #222222;
+}
+
+body.light-mode .footer-container p {
+  color: #222222;
+}
+
+body.light-mode .contact-personal,
+body.light-mode .contact-account {
+  background: #ffffff;
+  color: #222222;
+}
+
+body.light-mode .contact-personal p,
+body.light-mode .contact-account h3,
+body.light-mode .contact-account p {
+  color: #333333;
+}
+
+body.light-mode .contact-personal:hover,
+body.light-mode .contact-account:hover {
+  background: #f0f0f0;
+}
+
+body.light-mode .copyright p {
+  color: #555555;
+}
+
+body.light-mode .profile img {
+  border-color: #829cd0;
+}
+
+body.light-mode .cert-image {
+  border-color: #829cd0;
+}
+
+body.light-mode .contact-personal,
+body.light-mode .contact-account {
+  border-color: #829cd0;
+}
+
+body.light-mode .panel {
+  border-color: #829cd0;
+}
+
+body.light-mode .CONTACT .footer-container hr {
+  background-color: #829cd0;
+}
+
+body.light-mode .other-main-container hr,
+body.light-mode .about-head hr {
+  background-color: #829cd0;
+}

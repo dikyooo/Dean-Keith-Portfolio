@@ -1,0 +1,719 @@
+@media (max-width: 1400px) {
+  .navbar {
+    left: 25px;
+    right: 25px;
+    padding: 0 30px 0 40px;
+  }
+
+  .navlink ul li {
+    margin: 0 18px;
+  }
+
+  .welcome {
+    font-size: 24px;
+  }
+
+  .ABOUT {
+    width: 85%;
+  }
+
+  .introduction {
+    gap: 45px;
+  }
+
+  .name {
+    font-size: 34px;
+  }
+
+  .intro p {
+    font-size: 14px;
+    line-height: 26px;
+  }
+
+  .profile img {
+    width: 250px;
+    height: 250px;
+  }
+
+  .information {
+    gap: 30px;
+  }
+
+  .details,
+  .education {
+    width: 28%;
+  }
+
+  .skills,
+  .hobbies {
+    width: 18%;
+  }
+
+  .stack-container,
+  .awards-container {
+    width: 85%;
+  }
+
+  .stack-row {
+    width: 95%;
+  }
+
+  .icon {
+    width: 100px;
+    height: 110px;
+  }
+
+  .cert {
+    width: 32%;
+  }
+
+  .other-main-container {
+    width: 85%;
+  }
+
+  .other-container {
+    gap: 45px;
+  }
+
+  .gallery {
+    width: 48%;
+    height: 320px;
+  }
+
+  .text {
+    width: 45%;
+    height: 320px;
+  }
+
+  .text h2 {
+    font-size: 19px;
+  }
+
+  .text h3 {
+    font-size: 15px;
+  }
+
+  .text p {
+    font-size: 14px;
+    line-height: 26px;
+  }
+
+  .footer-container {
+    width: 85%;
+  }
+
+  .contact-row {
+    width: 80%;
+    gap: 20px;
+  }
+
+  .contact-personal,
+  .contact-account {
+    height: 70px;
+  }
+
+  .contact-personal img,
+  .contact-account img {
+    width: 30px;
+    height: auto;
+  }
+
+  .contact-personal p {
+    font-size: 14px;
+  }
+
+  .contact-account h3 {
+    font-size: 14px;
+  }
+
+  .contact-account p {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .navbar {
+    left: 20px;
+    right: 20px;
+    padding: 0 25px;
+  }
+
+  .navlink ul li {
+    margin: 0 15px;
+  }
+
+  .welcome {
+    font-size: 21px;
+  }
+
+  .ABOUT {
+    width: 90%;
+  }
+
+  .introduction {
+    gap: 30px;
+  }
+
+  .name {
+    font-size: 30px;
+  }
+
+  .intro p {
+    font-size: 13px;
+    line-height: 24px;
+  }
+
+  .intro p br {
+    display: none;
+  }
+
+  .profile img {
+    width: 220px;
+    height: 220px;
+  }
+
+  .information {
+    flex-wrap: wrap;
+    gap: 25px;
+  }
+
+  .details,
+  .education,
+  .skills,
+  .hobbies {
+    width: 45%;
+  }
+
+  .stack-container,
+  .awards-container {
+    width: 90%;
+  }
+
+  .stack-row {
+    width: 95%;
+  }
+
+  .icon {
+    width: 90px;
+    height: 100px;
+  }
+
+  .cert {
+    width: 31%;
+  }
+
+  .other-main-container {
+    width: 90%;
+  }
+
+  .other-container {
+    gap: 35px;
+  }
+
+  .gallery {
+    width: 48%;
+    height: 300px;
+  }
+
+  .text {
+    width: 45%;
+    height: 300px;
+  }
+
+  .text h2 {
+    font-size: 17px;
+  }
+
+  .text h3 {
+    font-size: 14px;
+  }
+
+  .text p {
+    font-size: 13px;
+    line-height: 24px;
+  }
+
+  .footer-container {
+    width: 90%;
+  }
+
+  .contact-row {
+    width: 85%;
+  }
+
+  .contact-personal,
+  .contact-account {
+    height: 65px;
+  }
+
+  .contact-personal img,
+  .contact-account img {
+    width: 28px;
+    height: auto;
+  }
+
+  .contact-personal p {
+    font-size: 13px;
+  }
+
+  .contact-account h3 {
+    font-size: 13px;
+  }
+
+  .contact-account p {
+    font-size: 11px;
+  }
+}
+
+@media (max-width: 992px) {
+  .navbar {
+    left: 15px;
+    right: 15px;
+    padding: 0 20px;
+  }
+
+  .navlink ul li {
+    margin: 0 10px;
+  }
+
+  .navlink ul li a {
+    font-size: 10px;
+  }
+
+  .HOME {
+    padding-top: 230px;
+  }
+
+  .welcome {
+    font-size: 18px;
+    height: 250px;
+  }
+
+  .ABOUT {
+    width: 90%;
+  }
+
+  .introduction {
+    flex-direction: column-reverse;
+    text-align: center;
+    gap: 15px;
+  }
+
+  .profile img {
+    width: 200px;
+    height: 200px;
+  }
+
+  .name {
+    font-size: 28px;
+  }
+
+  .intro h2 {
+    font-size: 16px;
+  }
+
+  .intro p {
+    font-size: 13px;
+    line-height: 24px;
+    text-align: center;
+  }
+
+  .information {
+    gap: 25px;
+  }
+
+  .details,
+  .education,
+  .skills,
+  .hobbies {
+    width: 45%;
+  }
+
+  .information p {
+    font-size: 12px;
+    line-height: 16px;
+  }
+
+  .item {
+    font-size: 9px;
+    padding: 9px 13px;
+  }
+
+  .stack-container {
+    width: 90%;
+  }
+
+  .stack-row {
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-bottom: 30px;
+  }
+
+  .icon {
+    width: 100px;
+    height: 100px;
+  }
+
+  .awards-container {
+    width: 90%;
+  }
+
+  .cert-row {
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+
+  .cert {
+    width: 45%;
+    height: 260px;
+  }
+
+  .cert-image {
+    height: 205px;
+  }
+
+  .cert p {
+    font-size: 12px;
+  }
+
+  .other-main-container {
+    width: 90%;
+  }
+
+  .other-container {
+    gap: 20px;
+  }
+
+  .gallery {
+    width: 48%;
+    height: 240px;
+  }
+
+  .text {
+    width: 45%;
+    height: 260px;
+  }
+
+  .text h2 {
+    font-size: 15px;
+  }
+
+  .text h3 {
+    font-size: 12px;
+  }
+
+  .text p {
+    font-size: 11px;
+    line-height: 19px;
+  }
+
+  .footer-container {
+    width: 90%;
+  }
+
+  .contact-row {
+    width: 90%;
+    gap: 12px;
+  }
+
+  .contact-personal,
+  .contact-account {
+    height: 58px;
+  }
+
+  .contact-personal img,
+  .contact-account img {
+    width: 24px;
+    height: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .contact-personal p {
+    font-size: 11px;
+  }
+
+  .contact-account h3 {
+    font-size: 11px;
+  }
+
+  .contact-account p {
+    font-size: 9px;
+  }
+
+  .copyright p {
+    font-size: 11px;
+  }
+}
+
+@media (max-width: 768px) {
+  .navbar {
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    width: 80%;
+    padding: 10px 12px;
+    border-radius: 20px;
+  }
+
+  .navlink {
+    height: auto;
+    gap: 18px;
+  }
+
+  .logo {
+    font-size: 5px;
+  }
+
+  .navlink ul {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .navlink ul li {
+    margin: 0;
+  }
+
+  .navlink ul li a {
+    font-size:10px;
+  }
+
+  .HOME {
+    padding-top: 190px;
+  }
+
+  .welcome {
+    height: 200px;
+    font-size: 8px;
+    line-height: 10px;
+    padding: 0 10px;
+  }
+
+  .explore {
+    margin-top: 10px;
+    font-size: 10px;
+    padding-bottom: 60px;
+  }
+
+  .ABOUT {
+    width: 90%;
+    padding-top: 55px;
+  }
+
+  .about-head {
+    font-size: 15px;
+  }
+
+  .introduction {
+    margin-top: 25px;
+  }
+
+  .profile {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .profile img {
+    width: 160px;
+    height: 160px;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .name {
+    font-size: 15px;
+    line-height: 12px;
+  }
+
+  .intro h2 {
+    font-size: 14px;
+  }
+
+  .intro p {
+    font-size: 12px;
+    line-height: 22px;
+  }
+
+  .information {
+    margin-top: 35px;
+    gap: 20px;
+  }
+
+  .details,
+  .education,
+  .skills,
+  .hobbies {
+    width: 100%;
+  }
+
+  .info-title {
+    font-size: 12px;
+  }
+
+  .information p {
+    font-size: 12px;
+    line-height: 18px;
+  }
+
+  .item {
+    font-size: 9px;
+    padding: 9px 15px;
+  }
+
+  .stack-container {
+    width: 90%;
+    margin-top: 50px;
+  }
+
+  .stack-container h1,
+  .awards-container h1 {
+    font-size: 15px;
+  }
+
+  .stack-row {
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+
+  .icon {
+    width: 75px;
+    height: 80px;
+    border-radius: 15px;
+  }
+
+  .icon img {
+    height: 30px;
+    margin-top: 10px;
+  }
+
+  .icon p {
+    font-size: 8px;
+  }
+
+  .awards-container {
+    width: 80%;
+  }
+
+  .cert-row {
+    gap: 15px;
+    margin-bottom: 15px;
+  }
+
+  .cert {
+    width: 98%;
+    height: 250px;
+  }
+
+  .cert-image {
+    height: 220px;
+  }
+
+  .cert p {
+    font-size: 12px;
+  }
+
+  .other-main-container {
+    width: 95%;
+  }
+
+  .other-main-container .title {
+    font-size: 16px;
+  }
+
+  .other-main-container h1 {
+    font-size: 18px;
+  }
+
+  .other-container {
+    gap: 10px;
+    margin-top: 60px;
+  }
+
+  .gallery {
+    width: 45%;
+    height: 185px;
+  }
+
+  .text {
+    width: 50%;
+    height:185px;
+  }
+
+  .text h2 {
+    font-size: 8px;
+  }
+
+  .text h3 {
+    font-size: 8px;
+  }
+
+  .text p {
+    font-size: 8px;
+    line-height: 13px;
+  }
+
+  .footer-container {
+    width: 95%;
+  }
+
+  .footer-container p {
+    font-size: 13px;
+  }
+
+  .contact-row {
+    width: 90%;
+    gap: 5px;
+    margin-bottom: 12px;
+  }
+
+  .contact-personal,
+  .contact-account {
+    height: 40px;
+    width: 215px;
+  }
+
+  .contact-personal {
+    border-radius: 10px;
+  }
+
+  .contact-account {
+    width: 80px;
+    border-radius: 10px;
+  }
+
+  .contact-personal img,
+  .contact-account img {
+    width: 18px;
+    height: auto;
+    margin-left: 7px;
+    margin-right: 7px;
+  }
+
+  .contact-personal p {
+    font-size: 8px;
+  }
+
+  .contact-account h3 {
+    font-size: 8px;
+  }
+
+  .contact-account p {
+    font-size: 6px;
+  }
+
+  .copyright {
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+
+  .copyright p {
+    font-size: 9px;
+  }
+}
